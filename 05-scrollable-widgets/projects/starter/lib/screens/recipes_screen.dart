@@ -1,7 +1,6 @@
 import 'package:flutter/material.dart';
-import 'package:fooderlich/components/recipes_grid_view.dart';
+import '../components/recipes_grid_view.dart';
 
-import '../components/components.dart';
 import '../api/mock_fooderlich_service.dart';
 import '../models/models.dart';
 
